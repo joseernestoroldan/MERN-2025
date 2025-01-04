@@ -61,8 +61,8 @@ The frontend is built using React and Vite.
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/joseernestoroldan/MERN-2025.git
+    cd joseernestoroldan
     ```
 
 2. Install backend dependencies:
